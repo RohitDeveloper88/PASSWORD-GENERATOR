@@ -1,0 +1,37 @@
+body {
+    background: url(images/k.png);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+.container {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 400px;
+    margin-bottom: 345px;
+    background-color: rgba(25, 73, 124, 0.774);
+}
+.gen{
+    margin-right: 68px;
+}
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#passwordResult {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
